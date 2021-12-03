@@ -5,3 +5,4 @@ file
 - Menulis dengan sungguh-sungguh
 - menambahkan skil kemampuan
 - revisi dulu
+- pertama edit dulu
